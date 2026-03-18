@@ -1,6 +1,3 @@
-// Archivo: src/config.js
-// Configuración global del frontend Agenda ADSO
-
 export const API_BASE_URL = "https://agenda-adso-api.onrender.com/contactos";
 
 export const APP_INFO = {
