@@ -1,0 +1,13 @@
+const db = {
+  contactos: [
+    {
+      id: 1,
+      nombre: "Ejemplo Inicial",
+      telefono: "3000000000",
+      correo: "ejemplo@correo.com",
+      etiqueta: "demo"
+    }
+  ]
+};
+
+module.exports = db;
